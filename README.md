@@ -24,6 +24,6 @@ My name is `Kiatbordin Jumratanet` or you can call me `KEN`.
 
 🌍 I have a background as a Network engineer in ISP and e-commerce online shopping platform companies.
 
-🏆 My goal is to transition the transferable skills acquired from my experiences and recent training to a new role as a Software Developer where I can utilize my background in technology, infrastructure, and operation.
+🏆 My goal is to enhance the technical skills acquired from my experiences and recent training to a role in the Tech development industry where I can utilize my background in technology, infrastructure, network and operation.
 
 Feel free to reach out to me ==> [Linkedin](https://www.linkedin.com/in/kiatbordin-jumratanet/).
